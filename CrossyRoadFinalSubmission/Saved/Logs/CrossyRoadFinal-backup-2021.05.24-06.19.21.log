@@ -1,0 +1,1205 @@
+﻿Log file open, 05/23/21 23:03:41
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: CrossyRoadFinal
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.235202
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/daisy/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz, GPU: Intel(R) Iris(R) Plus Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Engine.ini]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Engine.ini]
+[2021.05.24-06.03.42:314][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Engine.ini]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Engine.ini]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.24-06.03.42:314][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Engine.ini]
+[2021.05.24-06.03.42:314][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Engine.ini]
+[2021.05.24-06.03.42:328][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.24-06.03.42:328][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.24-06.03.42:329][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.24-06.03.42:329][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.24-06.03.42:329][  0]LogHAL: Display: Platform has ~ 16 GB [16737034240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.24-06.03.42:329][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.24-06.03.42:329][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.24-06.03.42:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.24-06.03.42:330][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Engine.ini]
+[2021.05.24-06.03.42:330][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/daisy/Downloads/world_Demo/Saved/Config/Windows/Editor.ini]
+[2021.05.24-06.03.42:332][  0]LogInit: Computer: DESKTOP-UQKDV6G
+[2021.05.24-06.03.42:332][  0]LogInit: User: daisy
+[2021.05.24-06.03.42:332][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.05.24-06.03.42:332][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.24-06.03.42:332][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2021.05.24-06.03.42:332][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.24-06.03.42:332][  0]LogMemory: Process Physical Memory: 136.48 MB used, 136.49 MB peak
+[2021.05.24-06.03.42:332][  0]LogMemory: Process Virtual Memory: 118.87 MB used, 118.87 MB peak
+[2021.05.24-06.03.42:332][  0]LogMemory: Physical Memory: 7772.16 MB used,  8189.52 MB free, 15961.68 MB total
+[2021.05.24-06.03.42:332][  0]LogMemory: Virtual Memory: 134210688.00 MB used,  7041.90 MB free, 134217728.00 MB total
+[2021.05.24-06.03.42:339][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.24-06.03.42:383][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.24-06.03.42:384][  0]LogInit: Using OS detected language (en-US).
+[2021.05.24-06.03.42:384][  0]LogInit: Using OS detected locale (en-US).
+[2021.05.24-06.03.42:389][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.05.24-06.03.42:590][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.24-06.03.42:604][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.24-06.03.42:620][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.24-06.03.42:620][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.24-06.03.42:796][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.24-06.03.42:796][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.24-06.03.42:796][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.24-06.03.42:796][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.24-06.03.42:894][  0]LogD3D11RHI:    0. 'Intel(R) Iris(R) Plus Graphics' (Feature Level 11_0)
+[2021.05.24-06.03.42:894][  0]LogD3D11RHI:       128/0/7980 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.05.24-06.03.42:897][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.24-06.03.42:897][  0]LogD3D11RHI:       0/0/7980 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.24-06.03.42:897][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.24-06.03.42:903][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.24-06.03.42:903][  0]LogD3D11RHI:     GPU DeviceId: 0x8a52 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.24-06.03.42:903][  0]LogWindows: EnumDisplayDevices:
+[2021.05.24-06.03.42:903][  0]LogWindows:    0. 'Intel(R) Iris(R) Plus Graphics' (P:1 D:1)
+[2021.05.24-06.03.42:903][  0]LogWindows:    1. 'Intel(R) Iris(R) Plus Graphics' (P:0 D:0)
+[2021.05.24-06.03.42:903][  0]LogWindows:    2. 'Intel(R) Iris(R) Plus Graphics' (P:0 D:0)
+[2021.05.24-06.03.42:904][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.05.24-06.03.42:904][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(R) Plus Graphics
+[2021.05.24-06.03.42:904][  0]LogD3D11RHI:   Driver Version: 27.20.100.9079 (internal:27.20.100.9079, unified:27.20.100.9079)
+[2021.05.24-06.03.42:904][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2021.05.24-06.03.42:904][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2021.05.24-06.03.43:057][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.05.24-06.03.43:068][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2021.05.24-06.03.43:068][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2021.05.24-06.03.43:068][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2021.05.24-06.03.43:069][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.05.24-06.03.43:069][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.24-06.03.43:069][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.24-06.03.43:075][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2021.05.24-06.03.43:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.24-06.03.43:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.24-06.03.43:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.24-06.03.43:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.24-06.03.43:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.24-06.03.43:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.24-06.03.43:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.24-06.03.43:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.24-06.03.43:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.24-06.03.43:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.24-06.03.43:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.24-06.03.43:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.24-06.03.43:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.24-06.03.43:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.24-06.03.43:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.24-06.03.43:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.24-06.03.43:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.24-06.03.43:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.24-06.03.43:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.24-06.03.43:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.24-06.03.43:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.24-06.03.43:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.24-06.03.43:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.24-06.03.43:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.24-06.03.43:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.24-06.03.43:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.24-06.03.43:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.24-06.03.43:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.24-06.03.43:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.24-06.03.43:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.24-06.03.43:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.24-06.03.43:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.24-06.03.43:637][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.24-06.03.43:655][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.24-06.03.43:779][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.24-06.03.43:779][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/daisy/Downloads/world_Demo/Intermediate/Shaders/WorkingDirectory/11828/).
+[2021.05.24-06.03.43:779][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/daisy/AppData/Local/Temp/UnrealShaderWorkingDir/17BACFA44CB8F52DC437C7AB607396D7/'.
+[2021.05.24-06.03.43:779][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.24-06.03.43:779][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.24-06.03.44:603][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.24-06.03.44:652][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/daisy/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.24-06.03.44:652][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/daisy/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.24-06.03.44:652][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/daisy/Downloads/world_Demo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.24-06.03.44:652][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.24-06.03.44:652][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/daisy/Downloads/world_Demo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.24-06.03.44:652][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.24-06.03.44:667][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.24-06.03.44:667][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.24-06.03.44:667][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.24-06.03.44:679][  0]LogDerivedDataCache: Speed tests for C:/Users/daisy/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.24-06.03.44:680][  0]LogDerivedDataCache: Display: Performance to C:/Users/daisy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=781.78MBs, RandomWriteSpeed=89.53MBs. Assigned SpeedClass 'Local'
+[2021.05.24-06.03.44:680][  0]LogDerivedDataCache: Using Local data cache path C:/Users/daisy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.24-06.03.44:680][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.24-06.03.44:680][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.24-06.03.44:730][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.24-06.03.44:731][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.24-06.03.44:759][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.05.24-06.03.44:982][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.24-06.03.44:982][  0]LogInit: Active device profile: [00000245C9117800][00000245C714A200 49] Windows
+[2021.05.24-06.03.44:982][  0]LogInit: Profiles: [00000245C9117800][00000245C714A200 49] Windows, [00000245C90D4A00][00000245C92DC380 49] WindowsNoEditor, [00000245C9114B00][00000245C92E0500 49] WindowsServer, [00000245C90D7200][00000245C92E4680 49] WindowsClient, [00000245C9117300][00000245C92E8800 49] IOS, [00000245C90D5000][00000245C92EC980 49] iPadAir, [00000245C9115100][00000245C92F0B00 49] iPadAir2, [00000245C908CE00][00000245C92F8DC0 49] IPadPro, [00000245C908CF00][00000245C92F4E00 49] iPadAir3, [00000245C9116D00][00000245C92FCF80 49] iPadAir4, [00000245C908FD00][00000245C9301100 49] iPadMini2, [00000245C9115400][00000245C9305280 49] iPadMini3, [00000245C908E000][00000245C9309400 49] iPadMini4, [00000245C9116800][00000245C930D580 49] iPadMini5, [00000245C90D7500][00000245C93117C0 49] iPhone6, [00000245C90D7400][00000245C92D9800 49] iPodTouch6, [00000245C908FE00][00000245C9319A40 49] iPhone7, [00000245C908DC00][00000245C9315A80 49] iPodTouch7, [00000245C90D7F00][00000245C9321C00 49] iPhone5S, [00000245C908C800][00000245C93240C0 49] iPhone6Plus, [00000245C90D6A00][00000245C9328240 49] iPhone6S, [00000245C908F400][00000245C932C3C0 49] iPhone6SPlus, [00000245C90D4900][00000245C9330540 49] iPhone7Plus, [00000245C908D000][00000245C93346C0 49] iPhoneSE, [00000245C90D5800][00000245C9338840 49] iPhone8, [00000245C908F000][00000245C933C9C0 49] iPhone8Plus, [00000245C90D6F00][00000245C9340B40 49] iPhoneX, [00000245C908C600][00000245C9344CC0 49] iPhoneXS, [00000245C90D6900][00000245C9348E40 49] iPhoneXSMax, [00000245C908C400][00000245C934CFC0 49] iPhoneXR, [00000245C90D5F00][00000245C9351140 49] iPhone11, [00000245C908CA00][00000245C93552C0 49] iPhone11Pro, [00000245C90D7000][00000245C9359440 49] iPhone11ProMax, [00000245C908EF00][00000245C935D5C0 49] iPhoneSE2, [00000245C90D6E00][00000245C931D700 49] iPhone12Mini, [00000245C908F100][00000245C9361840 49] iPhone12, [00000245C90D4800][00000245C9365980 49] iPhone12Pro, [00000245C908D100][00000245C9369AC0 49] iPhone12ProMax, [00000245C90D7600][00000245C9371C40 49] iPadPro105, [00000245C908DD00][00000245C9374100 49] iPadPro129, [00000245C90D4C00][00000245C9378280 49] iPadPro97, [00000245C908D200][00000245C937C400 49] iPadPro2_129, [00000245C90D4500][00000245C9380580 49] iPad5, [00000245C908E400][00000245C9384700 49] iPad6, [00000245C90D6600][00000245C9388880 49] iPad7, [00000245C908D400][00000245C938CA00 49] iPad8, [00000245C90D4B00][00000245C9390B80 49] iPadPro11, [00000245C908EE00][00000245C9394D00 49] iPadPro2_11, [00000245C90D7A00][00000245C9398E80 49] iPadPro3_129, [00000245C908CC00][00000245C939D000 49] iPadPro4_129, [00000245C90D4100][00000245C93A1180 49] AppleTV, [00000245C908F600][00000245C93A5300 49] AppleTV4K, [00000245C90D6700][00000245C93A9480 49] TVOS, [00000245C908E100][00000245C93AD600 49] Mac, [00000245C90D7800][00000245C93B1780 49] MacClient, [00000245C908E600][00000245C936D8C0 49] MacNoEditor, [00000245C90D5600][00000245C93B5A00 49] MacServer, [00000245C908DA00][00000245C93B9B40 49] Linux, [00000245C90D5700][00000245C93C1CC0 49] LinuxAArch64, [00000245C908EB00][00000245C93C4180 49] LinuxNoEditor, [00000245C90D6D00][00000245C93C8300 49] LinuxAArch64NoEditor, [00000245C9115900][00000245C93CC480 49] LinuxClient, [00000245C9155600][00000245C93D0600 49] LinuxAArch64Client, [00000245C9117400][00000245C93D4780 49] LinuxServer, [00000245C9155800][00000245C93D8900 49] LinuxAArch64Server, [00000245C9116600][00000245C93DCA80 49] Android, [00000245C9155200][00000245C93E0C00 49] Android_Low, [00000245C9117900][00000245C93E4D80 49] Android_Mid, [00000245C9155900][00000245C93E8F00 49] Android_High, [00000245C9115700][00000245C93ED080 49] Android_Default, [00000245C9154200][00000245C93F1200 49] Android_Adreno4xx, [00000245C9114300][00000245C93F5380 49] Android_Adreno5xx_Low, [00000245C9154500][00000245C93F9500 49] Android_Adreno5xx, [00000245C9117100][00000245C93FD680 49] Android_Adreno6xx, [00000245C9155700][00000245C9401800 49] Android_Adreno6xx_Vulkan, [00000245C9116400][00000245C93BD940 49] Android_Mali_T6xx, [00000245C9154400][00000245C9405A80 49] Android_Mali_T7xx, [00000245C9116500][00000245C9409BC0 49] Android_Mali_T8xx, [00000245C9154800][00000245C940DD00 49] Android_Mali_G71, [00000245C90D5E00][00000245C94141C0 49] Android_Mali_G72, [00000245C908F800][00000245C9418340 49] Android_Mali_G72_Vulkan, [00000245C90D5B00][00000245C941C4C0 49] Android_Mali_G76, [00000245C908F900][00000245C9420640 49] Android_Mali_G76_Vulkan, [00000245C90D6C00][00000245C94247C0 49] Android_Mali_G77, [00000245C908D300][00000245C9428940 49] Android_Mali_G77_Vulkan, [00000245C90D4E00][00000245C942CAC0 49] Android_Vulkan_SM5, [00000245C908F500][00000245C9430C40 49] Android_PowerVR_G6xxx, [00000245C90D7100][00000245C9434DC0 49] Android_PowerVR_GT7xxx, [00000245C908FA00][00000245C9438F40 49] Android_PowerVR_GE8xxx, [00000245C90D6500][00000245C943D0C0 49] Android_PowerVR_GM9xxx, [00000245C908DB00][00000245C9441240 49] Android_PowerVR_GM9xxx_Vulkan, [00000245C90D5D00][00000245C94453C0 49] Android_TegraK1, [00000245C908ED00][00000245C9449540 49] Android_Unknown_Vulkan, [00000245C90D7300][00000245C944D6C0 49] Lumin, [00000245C908C500][00000245C9451840 49] Lumin_Desktop, [00000245C90D7C00][00000245C9411980 49] HoloLens, 
+[2021.05.24-06.03.45:116][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.24-06.03.45:116][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.24-06.03.45:116][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.24-06.03.45:116][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.24-06.03.45:116][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.24-06.03.45:134][  0]LogNetVersion: CrossyRoadFinal 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2016342200)
+[2021.05.24-06.03.45:560][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.24-06.03.45:616][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.054761 seconds
+[2021.05.24-06.03.45:621][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.24-06.03.45:621][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.24-06.03.45:621][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.24-06.03.46:144][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.24-06.03.46:150][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.24-06.03.46:273][  0]SourceControl: Source control is disabled
+[2021.05.24-06.03.46:273][  0]SourceControl: Source control is disabled
+[2021.05.24-06.03.46:277][  0]SourceControl: Source control is disabled
+[2021.05.24-06.03.46:282][  0]SourceControl: Source control is disabled
+[2021.05.24-06.03.46:295][  0]SourceControl: Source control is disabled
+[2021.05.24-06.03.46:318][  0]LogUProjectInfo: Found projects:
+[2021.05.24-06.03.46:666][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.24-06.03.46:700][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.24-06.03.46:700][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.24-06.03.46:776][  0]LogCollectionManager: Loaded 0 collections in 0.001349 seconds
+[2021.05.24-06.03.46:808][  0]LogFileCache: Scanning file cache for directory 'C:/Users/daisy/Downloads/world_Demo/Saved/Collections/' took 0.00s
+[2021.05.24-06.03.46:808][  0]LogFileCache: Scanning file cache for directory 'C:/Users/daisy/Downloads/world_Demo/Content/Developers/daisy/Collections/' took 0.00s
+[2021.05.24-06.03.46:808][  0]LogFileCache: Scanning file cache for directory 'C:/Users/daisy/Downloads/world_Demo/Content/Collections/' took 0.00s
+[2021.05.24-06.03.46:808][  0]LogOcInput: OculusInput pre-init called
+[2021.05.24-06.03.46:824][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.24-06.03.46:824][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.24-06.03.46:879][  0]LogEngine: Initializing Engine...
+[2021.05.24-06.03.46:880][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.24-06.03.46:880][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.24-06.03.46:881][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.24-06.03.46:997][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.24-06.03.47:010][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.24-06.03.47:033][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.24-06.03.47:039][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.24-06.03.47:039][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.24-06.03.47:039][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.24-06.03.47:039][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.24-06.03.47:039][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.24-06.03.47:039][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.24-06.03.47:039][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.24-06.03.47:039][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.24-06.03.47:039][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.24-06.03.47:039][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.24-06.03.47:040][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.24-06.03.47:040][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.24-06.03.47:074][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.24-06.03.47:074][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.24-06.03.47:244][  0]LogAudioMixer: Display: Using Audio Device SyncMaster (Intel(R) Display Audio)
+[2021.05.24-06.03.47:248][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.24-06.03.47:249][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.24-06.03.47:249][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.24-06.03.47:250][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.24-06.03.47:251][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.24-06.03.47:251][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.24-06.03.47:251][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.24-06.03.47:251][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.24-06.03.47:251][  0]LogInit: FAudioDevice initialized.
+[2021.05.24-06.03.47:252][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.24-06.03.47:252][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.24-06.03.47:309][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/daisy/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.24-06.03.47:309][  0]LogInit: Texture streaming: Enabled
+[2021.05.24-06.03.47:328][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.24-06.03.47:334][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.24-06.03.47:334][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.24-06.03.47:339][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.24-06.03.47:382][  0]LogInit: Transaction tracking system initialized
+[2021.05.24-06.03.47:415][  0]BlueprintLog: New page: Editor Load
+[2021.05.24-06.03.47:522][  0]LocalizationService: Localization service is disabled
+[2021.05.24-06.03.47:557][  0]TimingProfiler: Initialize
+[2021.05.24-06.03.47:557][  0]TimingProfiler: OnSessionChanged
+[2021.05.24-06.03.47:557][  0]LoadingProfiler: Initialize
+[2021.05.24-06.03.47:557][  0]LoadingProfiler: OnSessionChanged
+[2021.05.24-06.03.47:557][  0]NetworkingProfiler: Initialize
+[2021.05.24-06.03.47:557][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.24-06.03.47:557][  0]MemoryProfiler: Initialize
+[2021.05.24-06.03.47:557][  0]MemoryProfiler: OnSessionChanged
+[2021.05.24-06.03.47:725][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.24-06.03.47:726][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.24-06.03.47:941][  0]LogFileCache: Scanning file cache for directory 'C:/Users/daisy/Downloads/world_Demo/Content/' took 0.00s
+[2021.05.24-06.03.48:115][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.24-06.03.48:120][  0]SourceControl: Source control is disabled
+[2021.05.24-06.03.48:120][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.195
+[2021.05.24-06.03.48:120][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.24-06.03.48:120][  0]LightingResults: New page: Lighting Build
+[2021.05.24-06.03.48:121][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-06.03.48:121][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-06.03.48:121][  0]MapCheck: New page: Map Check
+[2021.05.24-06.03.48:121][  0]LightingResults: New page: Lighting Build
+[2021.05.24-06.03.48:128][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.24-06.03.48:175][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.05.24-06.03.48:182][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.05.24-06.03.48:183][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.05.24-06.03.48:186][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.24-06.03.48:193][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.24-06.03.48:193][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.24-06.03.48:194][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.212ms to complete.
+[2021.05.24-06.03.48:194][  0]LogFileHelpers: Loading map 'Template_Default' took 0.074
+[2021.05.24-06.03.48:196][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.271
+[2021.05.24-06.03.48:327][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.24-06.03.48:332][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.24-06.03.48:337][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.24-06.03.48:344][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.24-06.03.48:358][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3601 classes and 859 folders.
+[2021.05.24-06.03.48:360][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.24-06.03.48:362][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.24-06.03.48:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.24-06.03.48:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.24-06.03.48:363][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.24-06.03.48:363][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:363][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.24-06.03.48:363][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.05.24-06.03.48:363][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.24-06.03.48:363][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:363][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.24-06.03.48:363][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.24-06.03.48:364][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.24-06.03.48:364][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.24-06.03.48:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.24-06.03.48:364][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.24-06.03.48:364][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.24-06.03.48:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.05.24-06.03.48:365][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.24-06.03.48:365][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:365][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.24-06.03.48:365][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.24-06.03.48:365][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.24-06.03.48:365][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:365][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.24-06.03.48:366][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.24-06.03.48:366][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.24-06.03.48:366][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:366][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.24-06.03.48:366][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.24-06.03.48:367][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.24-06.03.48:367][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:367][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.24-06.03.48:367][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.24-06.03.48:368][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.24-06.03.48:368][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:368][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.24-06.03.48:368][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.24-06.03.48:368][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.24-06.03.48:368][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:368][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.24-06.03.48:369][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.24-06.03.48:369][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.24-06.03.48:369][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:369][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.24-06.03.48:369][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.24-06.03.48:370][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.24-06.03.48:370][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:370][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.24-06.03.48:370][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.05.24-06.03.48:371][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.24-06.03.48:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.24-06.03.48:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.24-06.03.48:373][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.24-06.03.48:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.24-06.03.48:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.24-06.03.48:374][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.24-06.03.48:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.24-06.03.48:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.05.24-06.03.48:375][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.24-06.03.48:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.24-06.03.48:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.05.24-06.03.48:376][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.24-06.03.48:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.24-06.03.48:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.05.24-06.03.48:376][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.24-06.03.48:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.24-06.03.48:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.05.24-06.03.48:377][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.24-06.03.48:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.24-06.03.48:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.05.24-06.03.48:377][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.24-06.03.48:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.24-06.03.48:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.05.24-06.03.48:378][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.24-06.03.48:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.24-06.03.48:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.05.24-06.03.48:378][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.24-06.03.48:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.24-06.03.48:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.05.24-06.03.48:379][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.24-06.03.48:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.24-06.03.48:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.05.24-06.03.48:380][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.24-06.03.48:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.24-06.03.48:380][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.24-06.03.48:380][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.24-06.03.48:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.24-06.03.48:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.24-06.03.48:380][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.05.24-06.03.48:431][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.24-06.03.48:512][  0]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.24-06.03.48:517][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.24-06.03.48:519][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.24-06.03.48:594][  0]LogRenderer: Reallocating scene render targets to support 956x404 Format 10 NumSamples 1 (Frame:1).
+[2021.05.24-06.03.49:005][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.24-06.03.49:005][  0]LogLoad: (Engine Initialization) Total time: 8.08 seconds
+[2021.05.24-06.03.49:005][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.24-06.03.49:005][  0]LogInit: First time updating LLM stats...
+[2021.05.24-06.03.49:053][  0]LogAssetRegistry: Asset discovery search completed in 4.2950 seconds
+[2021.05.24-06.03.49:054][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.05.24-06.03.49:092][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.24-06.03.49:155][  3]LogSlate: Took 0.000502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.24-06.05.00:770][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.05.24-06.05.00:771][890]Cmd: MAP LOAD FILE="../../../../../../Users/daisy/Downloads/world_Demo/Content/World/CrossyRoadGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.24-06.05.00:774][890]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.24-06.05.00:787][890]LightingResults: New page: Lighting Build
+[2021.05.24-06.05.00:787][890]LoadErrors: New page: Loading map: CrossyRoadGame.umap
+[2021.05.24-06.05.00:787][890]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-06.05.00:787][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-06.05.00:787][890]MapCheck: New page: Map Check
+[2021.05.24-06.05.00:787][890]LightingResults: New page: Lighting Build
+[2021.05.24-06.05.00:792][890]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.24-06.05.00:793][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.24-06.05.01:040][890]LogAudio: Display: Audio Device (ID: 1) registered with world 'CrossyRoadGame'.
+[2021.05.24-06.05.01:041][890]LogAIModule: Creating AISystem for world CrossyRoadGame
+[2021.05.24-06.05.01:112][890]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.24-06.05.01:123][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.24-06.05.01:137][890]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.24-06.05.01:137][890]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2021.05.24-06.05.01:137][890]LogFileHelpers: Loading map 'CrossyRoadGame' took 0.366
+[2021.05.24-06.05.01:137][890]LogSlate: Window 'Open Level' being destroyed
+[2021.05.24-06.05.02:832][968]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.24-06.05.02:840][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.24-06.05.02:840][968]PIE: New page: PIE session: CrossyRoadGame (May 23, 2021, 4:05:02 PM)
+[2021.05.24-06.05.02:842][968]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.24-06.05.02:843][968]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.24-06.05.02:843][968]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_CrossyRoadGame
+[2021.05.24-06.05.02:846][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003196s)
+[2021.05.24-06.05.02:847][968]LogAIModule: Creating AISystem for world CrossyRoadGame
+[2021.05.24-06.05.02:847][968]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2021.05.24-06.05.02:848][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/CrossyRoadGame.CrossyRoadGame to /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame (0.004593s)
+[2021.05.24-06.05.02:853][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.24-06.05.02:854][968]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.24-06.05.02:854][968]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.24-06.05.02:854][968]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.24-06.05.02:854][968]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.24-06.05.02:854][968]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.24-06.05.02:854][968]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.24-06.05.02:854][968]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.24-06.05.02:854][968]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.24-06.05.02:854][968]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.24-06.05.02:854][968]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.24-06.05.02:854][968]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.24-06.05.02:857][968]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.24-06.05.02:857][968]LogAudioMixer: Display: 1: FrontRight
+[2021.05.24-06.05.02:937][968]LogAudioMixer: Display: Using Audio Device SyncMaster (Intel(R) Display Audio)
+[2021.05.24-06.05.02:937][968]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.24-06.05.02:937][968]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.24-06.05.02:937][968]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.24-06.05.02:937][968]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.24-06.05.02:937][968]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.24-06.05.02:937][968]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.24-06.05.02:951][968]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.24-06.05.02:951][968]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.24-06.05.02:951][968]LogInit: FAudioDevice initialized.
+[2021.05.24-06.05.02:951][968]LogAudio: Display: Audio Device (ID: 2) registered with world 'CrossyRoadGame'.
+[2021.05.24-06.05.02:962][968]LogLoad: Game class is 'RungameTest_C'
+[2021.05.24-06.05.02:964][968]LogWorld: Bringing World /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame up for play (max tick rate 60) at 2021.05.23-23.05.02
+[2021.05.24-06.05.02:964][968]LogWorld: Bringing up level for play took: 0.000712
+[2021.05.24-06.05.02:965][968]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.05.24-06.05.02:968][968]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.05.24-06.05.02:986][968]LogStreaming: Warning: Failed to read file '../../../../../../Users/daisy/Downloads/world_Demo/Saved/SaveGames/1.sav' error.
+[2021.05.24-06.05.02:986][968]PIE: Server logged in
+[2021.05.24-06.05.02:987][968]PIE: Play in editor total start time 0.149 seconds.
+[2021.05.24-06.05.04:321][ 28]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.04:321][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.04:321][ 28]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:00FD
+[2021.05.24-06.05.04:322][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.04:322][ 28]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=18807.500 Y=-60.000 Z=-50.000] for [BP_Coin_C]
+[2021.05.24-06.05.04:322][ 28]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.04:322][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.05:821][118]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=13570.000 Y=4339.998 Z=-0.139] for [BP_Coin_C]
+[2021.05.24-06.05.05:821][118]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.05:821][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.05:822][118]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.05:822][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.07:334][198]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3960.000 Y=-60.000 Z=-20.000] for [BP_Coin_C]
+[2021.05.24-06.05.07:335][198]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.07:335][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.07:335][198]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.07:335][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.08:834][288]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.08:834][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.08:835][288]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.08:835][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.10:334][378]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.10:334][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.10:335][378]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=28417.500 Y=4339.998 Z=-30.139] for [BP_Coin_C]
+[2021.05.24-06.05.10:335][378]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.10:335][378]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.11:835][468]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=13870.137 Y=-5950.667 Z=4.934] for [BP_Coin_C]
+[2021.05.24-06.05.11:835][468]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.11:835][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.11:835][468]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.11:835][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.13:334][558]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:00FD
+[2021.05.24-06.05.13:334][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.13:335][558]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.13:335][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.13:336][558]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.13:336][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.14:834][648]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:00FD
+[2021.05.24-06.05.14:834][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.14:835][648]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.14:835][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.14:836][648]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:00FD
+[2021.05.24-06.05.14:836][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.14:836][648]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=15697.500 Y=-0.000 Z=-20.000] for [BP_Coin_C]
+[2021.05.24-06.05.14:836][648]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.14:836][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.16:334][738]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:0257
+[2021.05.24-06.05.16:334][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.16:335][738]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Coin_C]
+[2021.05.24-06.05.16:335][738]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.16:335][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.16:335][738]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:0257
+[2021.05.24-06.05.16:335][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.16:336][738]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Coin_C]
+[2021.05.24-06.05.16:336][738]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.16:336][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.17:836][828]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9990.000 Y=-130.000 Z=-0.000] for [BP_Coin_C]
+[2021.05.24-06.05.17:836][828]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.17:836][828]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.17:837][828]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=15697.500 Y=-0.000 Z=-20.000] for [BP_Coin_C]
+[2021.05.24-06.05.17:837][828]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.17:837][828]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.19:336][918]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.19:336][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.19:337][918]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:00FD
+[2021.05.24-06.05.19:337][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.19:337][918]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.19:337][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.20:837][  8]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2360.002 Y=-329.976 Z=20.002] for [BP_Coin_C]
+[2021.05.24-06.05.20:837][  8]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.20:837][  8]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.20:838][  8]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_1
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.20:838][  8]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.22:337][ 98]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=13720.000 Y=-6870.000 Z=-9.977] for [BP_Coin_C]
+[2021.05.24-06.05.22:337][ 98]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_0
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.22:337][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.22:337][ 98]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20677.500 Y=-130.000 Z=-30.000] for [BP_Coin_C]
+[2021.05.24-06.05.22:337][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.23:837][188]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9990.000 Y=-130.000 Z=-0.000] for [BP_Coin_C]
+[2021.05.24-06.05.23:837][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.23:838][188]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=28717.637 Y=-5950.667 Z=-25.066] for [BP_Coin_C]
+[2021.05.24-06.05.23:838][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.25:353][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.25:354][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.25:354][279]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Coin_C]
+[2021.05.24-06.05.25:354][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.26:853][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.26:854][369]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=530.058 Y=-5339.996 Z=20.023] for [BP_Coin_C]
+[2021.05.24-06.05.26:854][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.26:855][369]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=28487.500 Y=0.000 Z=-30.000] for [BP_Coin_C]
+[2021.05.24-06.05.26:855][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.28:353][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.28:354][459]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=28417.500 Y=4339.998 Z=-30.139] for [BP_Coin_C]
+[2021.05.24-06.05.28:354][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.29:870][550]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2360.002 Y=-329.976 Z=20.002] for [BP_Coin_C]
+[2021.05.24-06.05.29:870][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.29:871][550]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=26667.500 Y=0.000 Z=-30.000] for [BP_Coin_C]
+[2021.05.24-06.05.29:871][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.31:370][640]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.31:371][640]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=24837.500 Y=-130.000 Z=-30.000] for [BP_Coin_C]
+[2021.05.24-06.05.31:371][640]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.32:870][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.32:870][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.32:871][730]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=18807.500 Y=-60.000 Z=-50.000] for [BP_Coin_C]
+[2021.05.24-06.05.32:871][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.34:380][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.34:380][820]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Coin_C]
+[2021.05.24-06.05.34:381][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.34:381][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.34:382][820]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=28597.500 Y=3660.000 Z=289.987] for [BP_Coin_C]
+[2021.05.24-06.05.34:382][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.35:890][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.35:891][910]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Coin_C]
+[2021.05.24-06.05.35:891][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.35:892][910]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=26667.500 Y=0.000 Z=-30.000] for [BP_Coin_C]
+[2021.05.24-06.05.35:892][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.36:441][943]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_2
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.36:441][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.37:408][  1]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=28717.637 Y=-5950.667 Z=-25.066] for [BP_Coin_C]
+[2021.05.24-06.05.37:408][  1]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.37:942][ 33]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=30225.059 Y=-5339.996 Z=-39.977] for [BP_Coin_C]
+[2021.05.24-06.05.37:942][ 33]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_2
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.37:942][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.38:924][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.38:925][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Coin_C]
+[2021.05.24-06.05.38:925][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.39:441][123]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_2
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.39:441][123]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.40:441][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.40:441][183]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Coin_C]
+[2021.05.24-06.05.40:442][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.40:941][213]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=43265.000 Y=4339.998 Z=-60.139] for [BP_Coin_C]
+[2021.05.24-06.05.40:941][213]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_2
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.40:941][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.41:941][273]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=26667.500 Y=0.000 Z=-30.000] for [BP_Coin_C]
+[2021.05.24-06.05.41:941][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.42:441][303]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_2
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.42:442][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.43:441][363]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.43:441][363]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.43:442][363]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Coin_C]
+[2021.05.24-06.05.43:442][363]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.43:958][394]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=35525.000 Y=-130.000 Z=-60.000] for [BP_Coin_C]
+[2021.05.24-06.05.43:958][394]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_2
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.43:958][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.44:942][453]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=28417.500 Y=4339.998 Z=-30.139] for [BP_Coin_C]
+[2021.05.24-06.05.44:942][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.45:458][484]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_2
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:0257
+[2021.05.24-06.05.45:458][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.45:458][484]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Coin_C]
+[2021.05.24-06.05.45:458][484]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_2
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.45:459][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.46:441][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  SpawnActor BP Coin
+[2021.05.24-06.05.46:442][543]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=18807.500 Y=-60.000 Z=-50.000] for [BP_Coin_C]
+[2021.05.24-06.05.46:442][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.46:958][574]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=43565.137 Y=-5950.667 Z=-55.066] for [BP_Coin_C]
+[2021.05.24-06.05.46:958][574]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_2
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.46:958][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.47:941][633]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=28597.500 Y=3660.000 Z=289.987] for [BP_Coin_C]
+[2021.05.24-06.05.47:942][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.48:459][664]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_2
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.48:459][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.49:441][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=26667.500 Y=0.000 Z=-30.000] for [BP_Coin_C]
+[2021.05.24-06.05.49:442][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.49:942][753]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.24-06.05.49:942][753]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.05.24-06.05.49:958][754]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=43415.000 Y=-6870.000 Z=-69.977] for [BP_Coin_C]
+[2021.05.24-06.05.49:958][754]LogScript: Warning: Accessed None trying to read property coin
+	BP_Floor_C /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame:PersistentLevel.BP_Floor_C_2
+	Function /Game/blueprint/BP_Floor.BP_Floor_C:ExecuteUbergraph_BP_Floor:02E1
+[2021.05.24-06.05.49:959][754]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.50:857][808]Cmd: RestartLevel
+[2021.05.24-06.05.50:857][808]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.05.24-06.05.50:857][808]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.05.24-06.05.50:857][808]LogNet: Browse: /Game/World/CrossyRoadGame?restart
+[2021.05.24-06.05.50:858][808]LogLoad: LoadMap: /Game/World/CrossyRoadGame
+[2021.05.24-06.05.50:858][808]LogWorld: BeginTearingDown for /Game/World/UEDPIE_0_CrossyRoadGame
+[2021.05.24-06.05.50:858][808]LogWorld: UWorld::CleanupWorld for CrossyRoadGame, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-06.05.50:859][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-06.05.50:890][808]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.24-06.05.50:893][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.05.24-06.05.50:894][808]LogPlayLevel: Creating play world package: /Game/World/UEDPIE_0_CrossyRoadGame
+[2021.05.24-06.05.50:897][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002834s)
+[2021.05.24-06.05.50:898][808]LogAIModule: Creating AISystem for world CrossyRoadGame
+[2021.05.24-06.05.50:899][808]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2021.05.24-06.05.50:899][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/World/CrossyRoadGame.CrossyRoadGame to /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame (0.004219s)
+[2021.05.24-06.05.50:899][808]LogAudio: Display: Audio Device (ID: 2) registered with world 'CrossyRoadGame'.
+[2021.05.24-06.05.50:899][808]LogLoad: Game class is 'RungameTest_C'
+[2021.05.24-06.05.50:900][808]LogWorld: Bringing World /Game/World/UEDPIE_0_CrossyRoadGame.CrossyRoadGame up for play (max tick rate 60) at 2021.05.23-23.05.50
+[2021.05.24-06.05.50:900][808]LogWorld: Bringing up level for play took: 0.000602
+[2021.05.24-06.05.50:921][808]LogStreaming: Warning: Failed to read file '../../../../../../Users/daisy/Downloads/world_Demo/Saved/SaveGames/1.sav' error.
+[2021.05.24-06.05.50:921][808]LogLoad: Took 0.062648 seconds to LoadMap(/Game/World/UEDPIE_0_CrossyRoadGame)
+[2021.05.24-06.05.52:344][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.52:344][891]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=28597.500 Y=3660.000 Z=289.987] for [BP_Coin_C]
+[2021.05.24-06.05.52:345][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property coin". Blueprint:  BP_Floor Function:  Execute Ubergraph BP Floor Graph:  EventGraph Node:  Branch
+[2021.05.24-06.05.53:509][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.24-06.05.53:509][958]LogWorld: BeginTearingDown for /Game/World/UEDPIE_0_CrossyRoadGame
+[2021.05.24-06.05.53:509][958]LogWorld: UWorld::CleanupWorld for CrossyRoadGame, bSessionEnded=true, bCleanupResources=true
+[2021.05.24-06.05.53:510][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-06.05.53:520][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.24-06.05.53:523][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.24-06.05.53:530][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.24-06.05.53:530][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.24-06.05.53:531][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.24-06.05.53:559][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.24-06.05.53:676][958]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.24-06.05.53:703][959]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.05.24-06.05.54:984][ 25]LogSlate: Window 'Message Log' being destroyed
+[2021.05.24-06.05.55:019][ 25]LogSlate: Window 'Message Log' being destroyed
+[2021.05.24-06.06.13:257][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.24-06.06.25:662][955]LogMainFrame: Project does not require temp target
+[2021.05.24-06.06.25:665][955]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game.target
+[2021.05.24-06.06.25:790][956]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2021.05.24-06.06.27:469][ 51]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=C:/Users/daisy/Downloads/world_Demo/CrossyRoadFinal.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=C:/Users/daisy/Downloads/world_Demo/CrossyRoadFinal.uproject -cook -stage -archive -archivedirectory=C:/Users/daisy/Downloads/world_Demo -package -ue4exe="C:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2021.05.24-06.06.28:371][105]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\daisy\Downloads\world_Demo\CrossyRoadFinal.uproject
+[2021.05.24-06.06.28:719][126]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2021.05.24-06.06.28:737][127]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\daisy\Downloads\world_Demo\CrossyRoadFinal.uproject
+[2021.05.24-06.06.28:737][127]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.05.23-23.06.28.txt
+[2021.05.24-06.06.28:737][127]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\daisy\Downloads\world_Demo\CrossyRoadFinal.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="C:\Program Files\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.05.23-23.06.28.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2021.05.24-06.06.29:637][181]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: CrossyRoadFinal
+[2021.05.24-06.06.31:325][278]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 16 GB [16737034240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.24-06.06.31:818][303]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.24-06.06.31:865][306]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.24-06.06.31:866][306]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.24-06.06.31:866][306]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.24-06.06.31:866][306]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.24-06.06.31:866][306]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.24-06.06.31:866][306]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.24-06.06.31:866][306]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.24-06.06.31:866][306]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.24-06.06.31:866][306]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.24-06.06.31:866][306]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.24-06.06.31:950][308]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.24-06.06.31:950][308]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.24-06.06.31:950][308]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.24-06.06.31:985][311]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.24-06.06.32:002][312]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.24-06.06.32:022][313]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.24-06.06.32:055][315]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.24-06.06.32:078][316]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.24-06.06.32:137][316]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.24-06.06.32:168][318]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.24-06.06.32:168][318]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.24-06.06.32:202][320]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.24-06.06.32:226][321]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.24-06.06.32:268][323]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.24-06.06.32:289][324]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.24-06.06.32:320][325]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.24-06.06.32:320][325]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.24-06.06.32:343][326]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.24-06.06.32:365][327]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.24-06.06.32:391][328]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.24-06.06.32:416][329]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.24-06.06.32:416][329]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2021.05.24-06.06.32:463][331]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.24-06.06.33:850][387]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.24-06.06.35:156][440]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.24-06.06.35:238][443]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/daisy/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.24-06.06.35:276][445]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.24-06.06.35:302][446]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/daisy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=434.27MBs, RandomWriteSpeed=45.06MBs. Assigned SpeedClass 'Local'
+[2021.05.24-06.06.38:355][570]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.24-06.06.38:355][570]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.24-06.06.39:692][625]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.24-06.06.39:693][625]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2021.05.24-06.06.39:694][625]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2021.05.24-06.06.43:332][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2021.05.24-06.06.43:332][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2021.05.24-06.06.43:332][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.05.24-06.06.43:333][626]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.040 seconds for platforms WindowsNoEditor
+[2021.05.24-06.19.21:392][370]LogSlate: Window 'Output Log' being destroyed
+[2021.05.24-06.19.21:441][370]LogSlate: Window 'Output Log' being destroyed
