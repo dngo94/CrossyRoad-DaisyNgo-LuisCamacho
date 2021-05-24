@@ -1,14 +1,14 @@
 # CPSC386-CrossyRoad-DanNgo-LuisCamacho
-CPSC 386 Crossy Road Project
+CPSC 386 Crossy Road Project in Unreal Engine
 
 Contributors:
  Dan Ngo dngo94@csu.fullerton.edu
  Luis Camacho angel1@csu.fullerton.edu
 
-
 ![Demo](/Demo/Demo.png)
 
 Completed Goals:
+- Designed game assets using MagiacVoxel.
 - HUD showing high scores.
 - Main character (Fox) can jump and rotate properly.
 - Dynamically created highways, lands, rivers.
