@@ -7,3 +7,16 @@ Contributors:
 
 
 ![Demo](/Demo/Demo.png)
+
+Completed Goals:
+- HUD showing high scores.
+- Main character (Fox) can jump and rotate properly.
+- Dynamically created highways, lands, rivers.
+- Dynamically created cars, trucks, police cars.
+- Fox will die when falling into water.
+- Sound effects for main game and coin collecting.
+
+Things to achieve:
+-Eagle can swoop and grab fox.
+-Fix coin bugs (sometimes uncollectable).
+-Randomize obstacles.
