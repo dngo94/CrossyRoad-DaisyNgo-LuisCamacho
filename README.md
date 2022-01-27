@@ -11,12 +11,12 @@ Completed Goals:
 - Designed game assets using MagiacVoxel.
 - HUD showing high scores.
 - Main character (Fox) can jump and rotate properly.
-- Dynamically created highways, lands, rivers.
-- Dynamically created cars, trucks, police cars.
+- Dynamically generate highways, lands, rivers.
+- Dynamically generate cars, trucks, police cars.
 - Fox will die when falling into water.
-- Sound effects for main game and coin collecting.
+- Sound effects for coin collecting and backgrounf music.
 
-Things to achieve:
+Things we want to achieve:
 -Eagle can swoop and grab fox.
--Fix coin bugs (sometimes uncollectable).
--Randomize obstacles.
+-Fix coin bugs (sometimes coins become uncollectable).
+-Dynamically randomize obstacles.
